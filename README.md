@@ -1,6 +1,9 @@
 # bd1-redsocial-grupoCS
 S1. Tarea. Modelo conceptual de la red social estudiantil Pascualina
-Integrantes: Camila Andrea Ortiz Gómez - Sonia Maria Gomez Bolivar
+
+Integrantes: 
+Camila Andrea Ortiz Gómez  
+Sonia Maria Gomez Bolivar
 
 Este proyecto consiste en el diseño del modelo conceptual de una base de datos para la Red Social Pascualina, una plataforma orientada a mejorar la comunicación e interacción entre los estudiantes.
 
